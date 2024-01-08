@@ -1,0 +1,853 @@
+,Religious Community Involvement,Local Venue Visitation,Secular Volunteer Service,Online Social Networking,Workplace Socializing,Athletic Engagement,Cultural-Hobby Participation,Neighborhood Integration,Broader Event and Group Participation,Friendship Through Connections,Non-Engagement Preference,Alternative Strategies,Not Clear / Uncodeable Responses,re_category_id,nh_category_id,Nigel_Match,Response,Key_Reasons,JSON
+1,0,1,0,1,0,0,0,0,0,0,0,1,0,0101000000010,0101000000000,0,"go to the park, library, avoid bars - maybe once in a while - maybe the internet as well","This respondent made new friends by going to the park, library, occasionally visiting bars, and using the internet.","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""0"", ""4"": ""1"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+3,0,0,1,0,0,1,0,0,0,0,0,0,0,0010010000000,0010011000000,0,"volunteering, joining exercise groups or clubs","This respondent made new friends by volunteering, joining exercise groups, and joining clubs.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+4,0,0,1,0,0,0,0,0,0,1,0,0,0,0010000001000,0000000001000,0,volunteering and asking known friends who might know people in the new area,This respondent made new friends by volunteering and asking known friends.,"{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""1"",
+""4"": ""0"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""1"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+7,0,0,0,0,0,0,0,0,1,0,0,0,0,0000000010000,0000001000000,0,Maybe going out to parties.,This respondent made new friends by going out to parties.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+8,0,0,1,0,0,1,0,1,0,0,0,0,0,0010010100000,0000010000000,0,"I started seeking outdoor activities, volunteer work. Networking that way. Also, neighbors in my building.","This respondent made new friends by seeking outdoor activities, volunteer work, networking, and connecting with neighbors.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""1"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+9,0,0,0,1,0,0,0,0,0,0,0,0,0,0001000000000,0000000000001,0,Online chat,This respondent made new friends by using online chat.,"{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""1"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+10,0,0,1,0,0,0,0,0,0,1,0,0,0,0010000001000,0000000001000,0,"Friends of friends, maybe volunteering.","This respondent made new friends by:
+- Friends of friends
+- Volunteering","{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""1"",
+""4"": ""0"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""1"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+11,0,0,1,0,0,1,0,1,0,0,0,0,0,0010010100000,0010111100000,0,"I like to meet people in my neighborhood. I also like to volunteer. Also meetup groups like hiking, dancing. If I was still working, work would be a possibility. I also like going to classes.","This respondent made new friends by meeting people in their neighborhood, volunteering, joining meetup groups, going to classes.","{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""1"",
+""4"": ""0"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""1"",
+""8"": ""1"",
+""9"": ""1"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+12,0,0,0,0,1,0,0,0,0,0,0,0,0,0000100000000,0000110000000,0,Going out with coworkers and camping trips.,This respondent made new friends by going out with coworkers and going on camping trips.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+13,0,0,0,0,0,0,0,0,0,0,0,1,0,0000000000010,0000000001000,0,probably through relatives,This respondent made new friends by connecting with relatives.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+14,0,0,1,0,0,0,0,0,1,0,0,0,0,0010000010000,0010000100000,0,Joining local organizations and volunteering.,This respondent made new friends by joining organizations and volunteering.,"{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""1"",
+""4"": ""0"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""1"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+15,0,0,1,1,1,0,0,0,0,0,0,0,0,0011100000000,0010000000000,0,"volunteering, posting online, going out with coworkers)","This respondent made new friends by volunteering, posting online, and going out with coworkers.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""1"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+17,0,0,0,1,0,0,0,0,0,0,0,1,0,0001000000010,0000101000000,0,"Take a class, go to meet-up groups, put on a class.","This respondent made new friends by taking a class, attending meet-up groups, and putting on a class.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""0"", ""6"": ""1"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+18,0,1,0,0,0,0,0,0,0,0,0,0,0,0100000000000,0000000000001,0,Local bar,This respondent made new friends by going to a local bar.,"{ ""1"": ""0"", ""2"": ""1"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+22,0,0,1,0,0,0,0,0,1,0,0,0,0,0010000010000,0010011000000,0,"seek out underground music scene, Burning Man related people. Go to Design talks. Race my car. Volunteer at the SPCA.","This respondent made new friends by seeking out underground music scene, connecting with Burning Man related people, attending design talks, racing their car, and volunteering at the SPCA.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+24,0,0,0,0,0,0,1,0,0,0,0,0,0,0000001000000,1000000000000,0,Masonic Lodge.,This respondent made new friends by joining the Masonic Lodge.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+25,0,0,0,0,0,0,0,0,0,0,0,0,0,0000000000000,0000001000000,0,"go out dancing, meet people, do Meet-UP","This respondent made new friends by going out dancing, meeting people, and using Meet-UP.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+26,0,0,0,0,0,0,0,0,0,0,0,0,0,0000000000000,1000001000000,0,"join a church, writing groups to join",This respondent made new friends by joining a church and writing groups.,"{ ""1"": ""1"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+37,1,0,0,0,0,0,0,0,1,0,0,0,0,1000000010000,1000001000000,0,"We would find social organizations, churches or social clubs.","This respondent made new friends by joining social organizations, churches, and social clubs.","{ ""1"": ""1"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+38,0,0,0,0,0,0,0,0,1,0,0,0,0,0000000010000,0000001000000,0,look for common interest groups and public activities,This respondent made new friends by looking for common interest groups and public activities.,"{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""1"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+41,0,0,1,0,0,0,0,0,1,0,0,0,0,0010000010000,0010100000000,0,Any college & business associations and volunteering.,"This respondent made new friends by joining college & business associations, and volunteering.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""1"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+42,0,0,1,0,1,0,0,0,1,0,0,0,0,0010100010000,0010100100000,0,"Coworkers and local events, volunteering.","This respondent made new friends by: 
+- Coworkers
+- Local events
+- Volunteering","{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""1"",
+""4"": ""0"",
+""5"": ""1"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+44,0,0,0,1,0,0,0,0,0,0,0,1,0,0001000000010,0001100000000,0,Enroll in classes and go to meetup.com.,This respondent made new friends by enrolling in classes and using meetup.com.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""0"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+45,0,0,1,0,0,0,0,0,1,0,0,0,0,0010000010000,0010000000000,0,Join clubs and volunteer,This respondent made new friends by joining clubs and volunteering.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+48,0,1,0,1,1,0,0,0,0,0,0,0,0,0101100000000,0100100001000,0,"meet people at my job, through my collegues who would invite me to their friends, Join Meet-up group for engineers, sometimes talk to people in a bar.","This respondent made new friends by:
+- Meeting people at their job
+- Through their colleagues who would invite them to their friends
+- Joining a Meet-up group for engineers
+- Talking to people in a bar","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+49,0,0,0,0,0,0,0,1,1,0,0,0,0,0000000110000,0001000010000,0,I'd probably join more community based clubs or organizations. Or join orgs geared toward younger professionals. Also Eventbrite.,"This respondent made new friends by joining community clubs, organizations, and orgs for younger professionals.","{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""1"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+50,0,0,0,0,0,1,0,0,0,0,0,0,0,0000010000000,0000011000000,0,I would join sports teams or take classes of things I find interesting.,This respondent made new friends by joining sports teams and taking classes.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+53,0,1,1,0,1,0,0,0,1,0,0,0,0,0110100010000,0100100010000,0,"I would probably go out with coworkers or getting involved in political campaigns, volunteering, probably going out to restaurants and bars.","This respondent made new friends by going out with coworkers, getting involved in political campaigns, volunteering, going out to restaurants and bars.","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""1"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+54,0,0,0,1,1,1,0,0,0,0,0,0,0,0001110000000,0010010000000,0,"Volunteering, joining a fitness community or going out with coworkes. Yoga, those types of things.","This respondent made new friends by volunteering, joining a fitness community, going out with coworkers, and practicing yoga.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""1"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+56,0,0,0,0,0,0,0,0,0,0,0,0,1,0000000000001,0000000000100,0,Pretty much the same.,"This respondent made new friends by: 
+- Taking similar steps 
+- Engaging in similar activities","{
+""1"": ""0"",
+""2"": ""1"",
+""3"": ""0"",
+""4"": ""1"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+60,0,0,0,0,0,0,0,1,0,0,0,0,0,0000000100000,0000010100000,0,"go to the park, neighbors",This respondent made new friends by going to the park and meeting neighbors.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""1"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+61,0,0,0,0,1,0,1,0,0,0,0,0,0,0000101000000,0100101000000,0,"A couple different avenues; if I'm moving because of work, I'd try to get to know my coworkers, and I'd try to pick back up hobbies that I enjoy and find people that do similar things, and the third thing would be trying new things locally and","This respondent made new friends by:
+- Getting to know coworkers
+- Picking up hobbies and finding like-minded people
+- Trying new things locally","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+62,0,0,0,0,0,0,0,0,1,0,0,0,0,0000000010000,0000001000000,0,Join organizations that contain my interests.,This respondent made new friends by joining organizations based on their interests.,"{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""0"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""1"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+63,1,0,1,1,0,0,0,0,0,0,0,0,0,1011000000000,1000101000000,0,"Join the Unitarian church, look on MeetUp for people with common interests, get involved with the local Mensa group, volunteer work","This respondent made new friends by joining a church, using MeetUp, getting involved with a Mensa group, and doing volunteer work.","{ ""1"": ""1"", ""2"": ""0"", ""3"": ""1"", ""4"": ""1"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+64,0,1,0,0,0,0,0,0,0,0,0,1,0,0100000000010,0100010000000,0,"Probably local bars or restaurants, or motorcycle rides.",This respondent made new friends by going to local bars or restaurants and going on motorcycle rides.,"{ ""1"": ""0"", ""2"": ""1"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+65,0,0,0,0,0,0,0,1,0,0,0,0,0,0000000100000,0010000100000,0,hold an open house with food and desserts invite the neighbors over,This respondent made new friends by holding an open house and inviting neighbors.,"{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""0"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""1"",
+""9"": ""0"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+67,1,0,0,1,0,0,1,0,1,0,0,0,0,1001001010000,0010111000000,0,"join local yacht club, take classes at local college, check out library, see any volunteer opportunities, join local choir","This respondent made new friends by joining a local yacht club, taking classes at a local college, checking out the library, exploring volunteer opportunities, and joining a local choir.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""1"", ""8"": ""1"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+70,0,0,0,0,1,1,0,0,0,0,0,0,0,0000110000000,0100110000000,0,"Probably with Coworkers, joining a softball league or a running club. Maybe going out to bars.","This respondent made new friends by: 
+- Joining a softball league 
+- Joining a running club 
+- Going out to bars","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+71,1,0,1,0,1,0,1,0,0,0,0,0,0,1010101000000,1010001000000,0,"Join a church, book group,volunteer , co workers","This respondent made new friends by joining a church, book group, volunteering, and connecting with co-workers.","{ ""1"": ""1"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+75,0,0,1,0,0,1,1,1,0,0,0,0,0,0010011100000,0000011100000,0,"volunteering, join local skydive club, meet neighbors, join winemaking gorup","This respondent made new friends by volunteering, joining a local skydive club, meeting neighbors, and joining a winemaking group.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""1"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+76,0,0,0,0,0,0,0,0,1,0,0,0,0,0000000010000,0000100000000,0,connect with my SGI organization,This respondent made new friends by connecting with their SGI organization.,"{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""0"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+78,0,1,0,0,0,0,0,0,0,1,0,1,0,0100000001010,0100000001000,0,"If I was to go up (Lake County) there I would meet them at the coffee shop or meet them through other friends. Grocery store, up there it's more like country, rural.","This respondent made new friends by meeting them at the coffee shop, meeting them through other friends, and in a country/rural setting.","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+79,0,1,1,0,0,0,0,0,0,0,0,0,0,0110000000000,0110000100000,0,"I don't know. we might volunteer. I like to do things like store shopping, farmers markets, bars. We are so busy. Maybe if I had a job,","This respondent made new friends by volunteering, store shopping, visiting farmers markets, and going to bars.","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+80,1,0,0,0,0,1,0,1,0,0,0,0,0,1000010100000,1010011000000,0,"get involved in local synagogue, join a gym, be involved in the community, volunteer in community things, restoration projects","This respondent made new friends by getting involved in local synagogue, joining a gym, being involved in the community, volunteering in community things, and restoration projects.","{ ""1"": ""1"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""1"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+83,0,0,0,0,0,0,0,0,0,0,0,1,0,0000000000010,0000000000100,0,"I wouldn't think of how to do it, I would just do it. I make friends easily. I don't really need a lot of friends. My best friend is my husband. When I go out and about I start talking to people in line, or at peet's i'll talk to people. Talk",This respondent made new friends by talking to people.,"{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""0"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""1"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+84,0,0,0,1,0,1,1,0,0,0,0,1,0,0001011000010,0001011000000,0,"Go on line and look at meet ups and I would look for classes, evening classes. Adult ed. I like certain hobbies so I would do that. I study french, cycling. I would do some of those social things.","This respondent made new friends by:
+- Going online and looking at meetups
+- Looking for classes, specifically evening classes and adult education
+- Engaging in social activities related to their hobbies, such as studying French and cycling","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""0"", ""6"": ""1"", ""7"": ""1"", ""8"": ""0"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+88,0,0,0,1,0,0,1,0,0,0,0,1,0,0001001000010,0101101000000,0,"I'd explore the local meet-up groups. Ideally, there's a college or community college nearby where I'd take classes and meet people. Possibly with co-workers. I'd look for book groups at the library. Would also join and check out ""Nextdoor.com","This respondent made new friends by exploring meet-up groups, taking classes, meeting people through co-workers, joining book groups, and checking out ""Nextdoor.com"".","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""1"", ""6"": ""0"", ""7"": ""1"", ""8"": ""1"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+89,0,0,0,0,0,1,0,1,0,0,0,1,0,0000010100010,0000010000000,0,"Join a gym, go to community meetings, go to the Library, invite neighbors over for a get-together.","This respondent made new friends by joining a gym, attending community meetings, going to the library, and inviting neighbors over for a get-together.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""1"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+90,0,0,0,0,0,0,0,0,0,0,0,1,0,0000000000010,0000000000100,0,"i would just conduct my ordinary functional life and meet people spontaneously as i go, i meet people all the time.",This respondent made new friends by conducting their ordinary functional life and meeting people spontaneously as they go.,"{
+""1"": ""0"",
+""2"": ""1"",
+""3"": ""0"",
+""4"": ""0"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+93,0,0,1,0,1,0,0,0,0,0,0,0,0,0010100000000,0010000000000,0,Coworkers & volunteer.,"This respondent made new friends by: 
+- Coworkers 
+- Volunteer","{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""1"",
+""4"": ""0"",
+""5"": ""1"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+94,0,0,0,1,0,1,0,0,0,0,0,1,0,0001010000010,0000011000000,0,"I hike, I join hiking groups, I do meet up, Carpool.","This respondent made new friends by hiking, joining hiking groups, using meet up, and carpooling.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+95,0,0,1,0,1,1,1,1,0,0,0,0,0,0010111100000,0000110100000,0,"I would join groups that were doing things I was interested in like environmental groups, fly-fishing, hiking clubs, etc. If I was working I would go out with coworkers. I would invite neighbors over to barbeque. I would volunteer.","This respondent made new friends by joining groups, going out with coworkers, inviting neighbors over, and volunteering.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""1"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+96,0,1,0,1,1,0,1,0,1,0,0,0,0,0101101010000,0101101000000,0,"Make friends with co-workers, take classes for hobbies, join a sanga, get involved with political groups, go to local music/book/lecture events that interest me, pay attention to local Instagram, Yelp, etc. for meetups that might interest me,","This respondent made new friends by:
+- Making friends with co-workers
+- Taking classes for hobbies
+- Joining a sanga
+- Getting involved with political groups
+- Attending local music/book/lecture events
+- Paying attention to local Instagram, Yelp, etc. for meetups","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+97,0,1,1,0,0,0,1,0,0,0,0,0,0,0110001000000,0110011000000,0,"Volunteer, join local civic clubs, here I belong to the outdoor art club. Walk the dog. Local groups, painting clubs, golf.","This respondent made new friends by volunteering, joining local civic clubs, belonging to an outdoor art club, walking the dog, joining local groups, joining painting clubs, and playing golf.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""1"", ""8"": ""0"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+98,0,0,1,0,0,0,0,0,0,0,0,1,0,0010000000010,0010011100000,0,Well I guess look around to see what kind of activities are going on . I am a reader so I would look around at libraries. I would volunteer. I'm part of big brothers big sisters program. Join a pool.,"This respondent made new friends by:
+- Looking for activities
+- Visiting libraries
+- Volunteering
+- Joining a big brothers big sisters program
+- Joining a pool","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""1"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+100,0,0,0,0,0,0,1,0,1,0,0,0,0,0000001010000,0100001000000,0,"try to get involved in some community groups, or groups related to things i'm interested in to meet people with like interests",This respondent made new friends by getting involved in community and interest-based groups.,"{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""1"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+101,0,0,1,0,0,1,1,0,1,0,0,0,0,0010011010000,0010010010000,0,"I would join political action groups and I would take classes, language classes, yoga stuff like that. Join a gym. Volunteer","This respondent made new friends by joining political action groups, taking classes (including language and yoga), joining a gym, and volunteering.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+102,1,0,1,0,0,1,1,0,0,0,0,0,0,1010011000000,1000011000000,0,"we would join a golf club and I participate in church. I enjoy museum auxiliaries, I would join the auxiliary and volunteer. I enjoy bridge and would join a bridge club. I would go that way.","This respondent made new friends by joining a golf club, participating in church, joining a museum auxiliary, volunteering, and joining a bridge club.","{ ""1"": ""1"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+103,0,0,0,1,1,0,1,0,0,0,0,0,0,0001101000000,0100101010000,0,"Sign up for classes, either classes that pertain to my job or hobby classes; I'd probably sign up for Meet Up and see what's around me that I enjoy. I'm not a big drinker but I would probably go out with coworkers to a happy hour or something","This respondent made new friends by signing up for classes, using Meet Up, and going out with coworkers.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""1"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+104,1,0,1,0,0,0,0,0,1,0,0,0,0,1010000010000,1010000000000,0,"I would volunteer, I might join a church. I would maybe join some community groups. Working with seniors, non profit work with elderly or children. Join the chamber.","This respondent made new friends by volunteering, joining a church, joining community groups, working with seniors, doing non-profit work with elderly or children, and joining the chamber.","{ ""1"": ""1"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""1"", ""8"": ""1"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+105,0,0,0,0,0,0,0,0,0,0,0,0,1,0000000000001,0000000000100,0,I would do the things I normally do and see who I meet doing that.,This respondent made new friends by doing their usual activities and meeting new people.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+106,0,0,0,0,0,0,1,0,0,1,0,0,0,0000001001000,0000100000000,0,I think the first thing I would meet people who are connected to people I know or connected to people through work. I would get involved in things that I like doing and meet people doing that.,"This respondent made new friends by:
+- Meeting people connected to people they know
+- Meeting people connected to people through work
+- Getting involved in things they like doing and meeting people doing that","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+108,1,0,0,1,0,1,0,0,0,0,0,0,0,1001010000000,0000011000000,0,"I might try a Meet-up group, try finding a church, or maybe some kind of sports.","This respondent made new friends by joining a Meet-up group, finding a church, and participating in sports.","{ ""1"": ""1"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+109,0,0,0,0,0,0,0,0,1,0,0,1,0,0000000010010,0000001000100,0,The only places I would think of moving is St. Louis and New york Because I know people there. I would just talk to people and have interactions with random people. Maybe join groups.,"This respondent made new friends by talking to people, having interactions with random people, and joining groups.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+110,1,1,0,0,0,0,0,0,0,0,0,1,0,1100000000010,1100000000000,0,"Attend church. Walk to a coffee shop and engage myself in conversation, or start up a conversation with someone with a animal","This respondent made new friends by attending church, engaging in conversation at a coffee shop, and starting conversations with people with animals.","{ ""1"": ""1"", ""2"": ""1"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+111,1,0,0,0,0,1,0,0,0,0,0,0,0,1000010000000,0010010000000,0,"Volunteer, join a sports club, team or something like that",This respondent made new friends by volunteering and joining a sports club or team.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+112,0,0,0,0,1,1,0,1,0,0,0,1,0,0000110100010,0000111001000,0,"Ask current friends if they know anybody in this new town. Meet people at my daughter's acitivities. Meet people at work. Meet the neighbors. Meet people at my favorite activities, such as dance classes, or other exercise classes.","This respondent made new friends by asking current friends, meeting people at daughter's activities, meeting people at work, meeting neighbors, and meeting people at favorite activities.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""1"", ""9"": ""1"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+113,0,0,0,0,0,0,0,0,1,0,0,0,0,0000000010000,0000001000000,0,I would probably get involved in environmental efforts or urban growth issues.,This respondent made new friends by getting involved in environmental efforts or urban growth issues.,"{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""0"",
+""5"": ""0"",
+""6"": ""1"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+116,0,0,0,0,0,0,0,0,0,0,1,0,0,0000000000100,0000100000000,0,"I currently work and have a two year old son so being ""social"" isn't a part of my busy life. I would take 0 steps to make new friends. My best way I guess would be meeting someone at a child friendly place but even then I have always been more",This respondent made new friends by meeting someone at a child-friendly place.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+120,1,0,0,0,0,0,0,0,1,1,0,0,0,1000000011000,1001000000000,0,"church and find connections we already have, and thru work always andmaybe thru comm orgs.","This respondent made new friends by: 
+- Attending church
+- Finding connections they already have
+- Networking through work
+- Possibly joining community organizations","{ ""1"": ""1"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+124,1,0,0,0,0,0,0,0,1,0,0,1,0,1000000010010,1000010010000,0,"I go to the senior center, the local Catholic Church, get a dog and take walks","This respondent made new friends by going to the senior center, attending the local Catholic Church, getting a dog, and taking walks.","{ ""1"": ""1"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+125,0,0,0,1,0,1,0,0,0,0,0,0,0,0001010000000,0000010000000,0,I can go on personal experience I moved to Concord 3 years ago. I joined several meet up groups sharing same interests. Cyclists,"This respondent made new friends by joining meet up groups with shared interests, specifically cyclists.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+127,0,0,0,0,1,0,1,0,0,1,0,0,0,0000101001000,0000101000000,0,"get involved in theater, find a job, find a few people that i connected to and try to integrate myself into their social system. ask someone out.","This respondent made new friends by getting involved in theater, finding a job, connecting with a few people, integrating into their social system, and asking someone out.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""0"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+128,0,0,0,0,0,0,0,1,0,0,0,1,0,0000000100010,0000000101000,0,Get to know the neighbors; get info on the area from current friends & family members; walk the immediate vicinity of our new residence,"This respondent made new friends by:
+- Getting to know the neighbors
+- Getting info on the area from current friends & family members
+- Walking the immediate vicinity of their new residence","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""1"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+129,0,0,0,0,1,0,0,0,1,0,0,0,0,0000100010000,0001001000000,0,"Work is where I meet most people, Use Meet Up. Looking at community classes.","This respondent made new friends by:
+- Meeting people at work
+- Using Meet Up
+- Looking at community classes","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+130,0,0,0,0,1,0,0,0,0,0,0,1,0,0000100000010,0000100000000,0,"Going out with coworkers, Going to school",This respondent made new friends by going out with coworkers and going to school.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+131,0,0,0,0,0,0,0,0,0,0,0,1,0,0000000000010,0000001000000,0,"meet people shopping, everyday activities, museum, parks","This respondent made new friends by meeting people while shopping, engaging in everyday activities, visiting museums, and going to parks.","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+132,1,0,0,0,0,0,1,0,1,0,0,0,0,1000001010000,1000001000000,0,"Active member of AA so that's how I meet. Unitarian Church, I would look for people in meditation groups",This respondent made new friends by being an active member of AA and participating in meditation groups at the Unitarian Church.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""1"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+137,0,0,0,0,0,0,0,1,0,0,0,1,0,0000000100010,0010101100000,0,"Library, helping out. Joining community activities.",This respondent made new friends by joining community activities and helping out.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""1"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+152,0,0,0,0,0,0,0,1,0,0,0,0,0,0000000100000,0000001000000,0,take community classes,This respondent made new friends by taking community classes.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+191,1,0,1,0,0,0,1,0,0,0,0,1,0,1010001000010,1010001000000,0,"possibly obtain job and meet people through work, volunteering, ""fun"" classes at Junior college or senior center, check out the local congregation.","This respondent made new friends by obtaining a job, meeting people through work, volunteering, taking ""fun"" classes, and checking out the local congregation.","{ ""1"": ""1"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+247,0,0,0,0,0,0,0,0,0,1,0,1,0,0000000001010,0000000000010,0,"look for a senior center, would probably move someone where I already knew someone and would have them assist me in meeting new people.",This respondent made new friends by looking for a senior center and seeking assistance from someone they already knew.,"{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""0"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""1"",
+""10"": ""1"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+259,0,0,0,0,0,0,0,0,1,0,0,0,0,0000000010000,0000001000000,0,get involved in AA,This respondent made new friends by getting involved in AA.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+264,1,0,1,0,0,1,1,0,0,0,0,1,0,1010011000010,1010011000000,0,"Church, volunteer, recreational activities offered by the city, junior college classes (arts and crafts stuff).","This respondent made new friends by attending church, volunteering, participating in recreational activities, and taking junior college classes.","{ ""1"": ""1"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+303,0,0,0,0,0,0,0,1,0,0,0,1,0,0000000100010,0000000100000,0,go to yarn shop take classes at community center meet neighbors,"This respondent made new friends by taking classes, meeting neighbors.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""1"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+308,0,0,1,0,1,0,1,0,0,0,0,1,0,0010101000010,0010101000000,0,"Volunteering, joining Sierra Club local chapter, taking classes at local colleges","This respondent made new friends by volunteering, joining Sierra Club local chapter, and taking classes at local colleges.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+320,0,0,0,1,0,0,1,0,0,0,0,1,0,0001001000010,0001001000000,0,"I would get on the internet I would locate the senior center, I like to take classes so I would locate and find out about classes at the local university. I am friendly and say hello to people when I walk. Just by interaction, when I'm shoppin","This respondent made new friends by:
+- Getting on the internet
+- Locating the senior center
+- Finding out about classes at the local university
+- Being friendly and saying hello to people while walking
+- Interacting with people while shopping","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""1"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+324,0,0,1,0,1,0,1,0,0,0,0,1,0,0010101000010,0010101000000,0,"Engaging with co-workers, joining a civic organization (e.g. Rotary, Lions, etc), volunteering, participate in park & recreation activities, take classes at local community colleges","This respondent made new friends by engaging with co-workers, joining a civic organization, volunteering, participating in park & recreation activities, and taking classes at local community colleges.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""1"", ""6"": ""1"", ""7"": ""1"", ""8"": ""0"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+329,0,0,0,0,0,1,1,0,0,0,0,1,0,0000011000010,0000011000000,0,"I WOULD ATTEND LOCAL OPERA, DANCE AND THEATRE PRODUCTIONS, POSSIBLY VOLUNTEER THERE AS WELL. TAKE CLASSES AT LOCAL COLLEGE OR UNIVERSITY OR POSSIBLY TEACH AT LOCAL UNIVERSITY.","This respondent made new friends by attending local cultural events, volunteering, taking classes, and possibly teaching.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""1"", ""8"": ""0"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+355,1,0,0,1,0,1,1,0,0,0,0,1,0,1001011000010,1001011000000,0,"Posting online, joining a book club, hanging out at the gym, taking classes, conceivably joining a congregation.","This respondent made new friends by posting online, joining a book club, hanging out at the gym, taking classes, and conceivably joining a congregation.","{ ""1"": ""1"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""0"", ""6"": ""1"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+390,0,1,0,0,0,0,0,1,0,0,0,0,0,0100000100000,0010001000000,0,"Joining a club, volunteering or taking a class","This respondent made new friends by joining a club, volunteering, and taking a class.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+397,0,1,0,1,0,0,0,0,1,0,0,0,0,0101000010000,0111001000000,0,"go to bars, volunteering, joining orgs, attending meet-ups, joining dating websites","This respondent made new friends by going to bars, volunteering, joining orgs, attending meet-ups, and joining dating websites.","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""1"", ""4"": ""1"", ""5"": ""0"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+400,1,0,0,0,0,0,0,0,0,0,0,0,0,1000000000000,1000001000000,0,Going to a church or temple also need to go to take lessons.,This respondent made new friends by going to a church or temple and taking lessons.,"{ ""1"": ""1"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+401,0,0,0,0,0,0,1,0,0,1,0,0,0,0000001001000,0000001000000,0,"I would join clubs, like maybe the local therapy- CAMP. Meet up for crafts, taking classes, quilting, clay. I would check with friends and family about people they know in the area. I would join a dog group. I would get on it. I would join the","This respondent made new friends by joining clubs, checking with friends and family, joining a dog group.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+404,0,0,0,0,1,0,0,0,0,0,0,0,0,0000100000000,0001100000000,0,whatever job I get - I would network to meet new people and hopefully friendships bloom.,This respondent made new friends by networking for job opportunities.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+405,0,0,0,1,1,0,0,0,0,1,0,0,0,0001100001000,0001100000000,0,"Coworkers, meet-ups, and hopefully through massage therapy clients","This respondent made new friends by: 
+- Coworkers
+- Meet-ups
+- Massage therapy clients","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+406,0,0,1,0,0,0,1,0,0,0,0,0,0,0010001000000,0110001000000,0,"volunteering, signing up with newcomers organizations, join local library and garden clubs","This respondent made new friends by volunteering, joining newcomers organizations, and joining library and garden clubs.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+407,0,0,1,1,1,0,1,0,0,0,0,0,0,0011101000000,0110010000000,0,"volunteering, join a community choir, join walking group, go out with co-workers, join local meet up groups.","This respondent made new friends by volunteering, joining a community choir, joining a walking group, going out with co-workers, and joining local meet up groups.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""1"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+410,0,0,0,0,0,1,0,0,1,0,0,1,0,0000010010010,0010110000010,0,"I would probably join the local senior center. I have found this (works at senior center) to be helpful. I would join weight watchers, I've met friends that way. I would volunteer in the legal field.","This respondent made new friends by joining the local senior center, joining weight watchers, and volunteering in the legal field.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+411,0,0,0,0,0,0,1,0,0,0,0,0,0,0000001000000,0000000100000,0,connect with the nepal community,This respondent made new friends by connecting with the Nepal community.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""1"" }"
+415,0,1,0,0,0,0,0,0,0,0,0,0,0,0100000000000,0101000000000,0,Local BAR and post,This respondent made new friends by going to a local bar and post.,"{ ""1"": ""0"", ""2"": ""1"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+419,0,0,0,0,0,0,0,0,0,0,0,1,0,0000000000010,0000010000000,0,Dogs are always a great lead in for great conversation. Walking at the parks etc.,This respondent made new friends by walking dogs and engaging in conversations.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+423,0,0,1,0,1,0,0,0,1,0,0,0,0,0010100010000,0010101000000,0,"join clubs, volunteer, work part-time","This respondent made new friends by joining clubs, volunteering, and working part-time.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+424,0,1,0,0,0,0,0,0,0,0,0,1,0,0100000000010,0100100000000,0,"If I was moving and in school, I would meet people in classes. If not I would meet people in bars or public places.","This respondent made new friends by: 
+- Meeting people in classes
+- Meeting people in bars or public places","{
+""1"": ""0"",
+""2"": ""1"",
+""3"": ""0"",
+""4"": ""0"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+427,0,0,1,0,0,0,0,0,1,0,0,0,0,0010000010000,0000000100000,0,"voluteering, joining a community, play music.","This respondent made new friends by volunteering, joining a community, and playing music.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+428,0,0,0,0,1,0,0,0,1,0,0,0,0,0000100010000,0001000000000,0,"Join some local classes, maybe go to some meetups find those with common interest","This respondent made new friends by joining local classes, attending meetups, and finding those with common interests.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""0"", ""6"": ""1"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+430,0,0,0,1,1,0,0,0,1,0,0,0,0,0001100010000,0001101000000,0,"Online dating, go out with co-workers, activities groups","This respondent made new friends by online dating, going out with co-workers, and joining activities groups.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+431,0,1,0,0,0,0,0,1,0,0,0,0,0,0100000100000,0000010000000,0,Go to parks,This respondent made new friends by going to parks.,"{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""0"",
+""5"": ""0"",
+""6"": ""1"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+432,0,1,0,0,0,0,0,0,0,0,0,1,0,0100000000010,0100100000000,0,I've always struggled with making new friends. But if I was taking classes I would try to strike up conversations with other students. Or maybe at cafes were students meet.,This respondent made new friends by striking up conversations with other students.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+436,0,0,0,0,0,0,0,0,0,0,0,0,1,0000000000001,0000000100000,0,"I think it would depend on the location, in California the people are more diverse so they are welcoming so I have less concerns about racism and sexism. I feel like most of my socialization in places that I don't know is more internal through",This respondent made new friends by socializing internally.,"{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""0"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+437,0,0,0,0,0,0,0,0,0,0,0,1,0,0000000000010,0000001000000,0,"I am not much of a socializer, mostly it would be people I meet while doing things i'm interested in.","This respondent made new friends by:
+- Meeting people while doing things they are interested in","{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""0"",
+""5"": ""0"",
+""6"": ""1"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+438,0,0,0,0,0,1,0,0,0,0,0,0,0,0000010000000,0000000100000,0,join outdoor community,This respondent made new friends by joining an outdoor community.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+439,1,0,0,0,1,0,0,0,0,0,0,1,0,1000100000010,1000100001000,0,"Go out with coworkers, find a church home and possibly connect with other mothers that have kids that go to school with my child.","This respondent made new friends by going out with coworkers, finding a church home, and connecting with other mothers.","{ ""1"": ""1"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+442,0,0,0,0,0,0,0,0,0,0,0,1,0,0000000000010,0000100000000,0,I guess the only reason I would move was to either teach or go to another school so it would be in the context of a school.,This respondent made new friends by teaching or going to another school.,"{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""0"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""1"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+443,0,0,0,1,0,0,0,1,0,0,0,0,0,0001000100000,0001001000000,0,"BBQs, online postings",This respondent made new friends by hosting BBQs and making online postings.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+444,0,0,0,0,0,0,0,0,0,0,0,1,0,0000000000010,0000001000000,0,Probably classes,This respondent made new friends by taking classes.,"{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""0"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""1"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""1"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+445,0,0,0,0,1,0,0,0,1,0,0,0,0,0000100010000,0001101000000,0,"I would probably make friends with people at work. We also, when we moved before joined something called ""new in town""","This respondent made new friends by joining something called ""new in town"" and making friends with people at work.","{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""0"",
+""5"": ""1"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""1"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+448,1,0,0,0,0,0,0,0,0,0,0,0,0,1000000000000,1000000001000,0,"church, expand from people I meet there",This respondent made new friends by attending church and expanding their social circle.,"{ ""1"": ""1"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+452,0,0,0,0,0,0,0,0,0,0,0,1,0,0000000000010,0000100000000,0,"Music scene, I usually wouldn't move somewhere where I didn't know atleast one person to help me meet their friends. through work",This respondent made new friends by joining the music scene and through work.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+453,1,0,0,0,1,0,0,1,0,0,0,0,0,1000100100000,1100001000000,0,Similar. Finding a church and community group. I am not good at making friends with neighbors. I would try to make friends at work.,"This respondent made new friends by finding a church, joining a community group, and trying to make friends at work.","{ ""1"": ""1"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""1"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+454,1,0,1,0,0,0,0,0,0,0,0,0,0,1010000000000,1000000000000,0,"probably go to church and join the church groups, Volunteer groups.",This respondent made new friends by joining church groups and volunteer groups.,"{ ""1"": ""1"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+456,0,0,0,0,0,0,1,0,0,0,0,0,0,0000001000000,0000010000000,0,"Work, Swing Dancing",This respondent made new friends by working and swing dancing.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+457,0,0,0,0,0,0,0,0,1,0,0,0,0,0000000010000,0000001000000,0,Join some groups. Probably would not move somewhere that I didn't know anyone. I meet people pretty easily,This respondent made new friends by joining groups and meeting people easily.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+459,1,1,0,0,0,0,0,0,0,0,0,0,0,1100000000000,1100001000000,0,"Join another church closer by, go out to parks, libraries, and coffee shops","This respondent made new friends by joining another church, going out to parks, libraries, and coffee shops.","{ ""1"": ""1"", ""2"": ""1"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+460,0,0,0,0,0,0,1,0,0,0,0,1,0,0000001000010,0100001000000,0,"Find the local game shop. Join a game. (Maybe run one.) Find the local book store(s). See if there are any SF clubs. Find any local SF conventions. Find the local user groups. (Frex, I'm a Perl programmer, and there are lots of groups that do","This respondent made new friends by:
+- Joining a game
+- Running a game
+- Finding SF clubs
+- Attending SF conventions
+- Finding local user groups","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+461,0,0,0,0,0,1,1,0,1,0,0,0,0,0000011010000,0000011100000,0,"Join a community center excercise groups, Arts, outdoor activity groups, culinary groups","This respondent made new friends by joining exercise, arts, outdoor activity, and culinary groups.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+462,1,0,1,0,0,0,0,0,0,0,0,0,0,1010000000000,1010100000000,0,"church,volunteering, kids school","This respondent made new friends by attending church, volunteering, and getting involved in their kids' school.","{ ""1"": ""1"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""1"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+465,0,0,0,0,0,0,0,0,0,1,0,0,0,0000000001000,0000000100000,0,family through i know their community,This respondent made new friends by connecting with family and their community.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""1"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+466,0,0,0,0,0,0,0,0,0,0,0,1,0,0000000000010,0000000000100,0,"I'm a very friendly person it is not hard to make friends, approach people your new home",This respondent made new friends by approaching people.,"{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""0"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""1"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+467,0,0,0,0,0,1,0,0,0,0,0,1,0,0000010000010,0100010000000,0,"Get out in public, personal fitness class, very socialable",This respondent made new friends by getting out in public and attending personal fitness classes.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+468,0,0,0,1,1,1,0,0,0,0,0,0,0,0001110000000,0011010000000,0,"Gym, volunteer, work, meet ups","This respondent made new friends by: gym, volunteer, work, meet ups.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""1"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+470,0,0,0,0,0,0,1,0,1,0,0,0,0,0000001010000,0000001100000,0,join clubs communities video games groups socializing events,"This respondent made new friends by joining clubs, communities, video games groups, and socializing events.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""1"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+471,0,0,0,0,0,0,0,0,0,0,0,0,1,0000000000001,0010101000000,0,"Throw a party, get to know people at work, participate in community acitivities","This respondent made new friends by throwing a party, getting to know people at work, and participating in community activities.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+473,1,1,1,0,0,0,0,0,1,0,0,0,0,1110000010000,0110000000000,0,"Volunteering, joining a local church, go to local restaurants and stores, attend special events in town.","This respondent made new friends by volunteering, joining a local church, going to local restaurants and stores, and attending special events in town.","{ ""1"": ""1"", ""2"": ""1"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+474,0,0,0,0,0,0,0,0,1,0,0,0,0,0000000010000,0000001000000,0,join environmental groups such as Audubon;,This respondent made new friends by joining environmental groups.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+475,0,0,1,0,0,0,0,0,0,1,0,1,0,0010000001010,0000001001000,0,"meetups, meet friends thru friends, needleart guilds and groups, classes, volunteer, starting up conversations","This respondent made new friends by attending meetups, meeting friends through friends, joining needleart guilds and groups, taking classes, volunteering, and starting up conversations.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""0"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""1"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+476,0,0,1,1,0,0,0,0,1,0,0,0,0,0011000010000,0000000110000,0,"i WOULD GO TO ANY EVENTS AT MY RESIDENTIAL COMMUNITY, VOLUNTEER FOR SOCIAL OR POLITICAL GROUPS, AND MEET PEOPLE ONLINE.","This respondent made new friends by attending events, volunteering, and meeting people online.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""1"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+477,0,0,0,0,0,0,0,1,1,0,0,0,0,0000000110000,0000000111000,0,"Probably get involved in political activities, get involved in neighborhood and community activities. Invite neighbors over.","This respondent made new friends by getting involved in political activities, neighborhood and community activities, and inviting neighbors over.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""1"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+478,0,0,0,0,0,0,0,0,0,0,0,1,0,0000000000010,0000100000000,0,Through college,"This respondent made new friends by: 
+- Through college","{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""0"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+479,0,0,0,0,1,0,1,0,0,0,0,1,0,0000101000010,0000101000000,0,"have a lot of people I would meet at work, meet people through my child's care, with my hobbies","This respondent made new friends by meeting people at work, through their child's care, and through their hobbies.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+483,0,0,0,0,0,0,0,0,0,0,0,1,0,0000000000010,0000001000000,0,get involved in stuff,This respondent made new friends by getting involved in activities.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+485,0,0,0,0,0,0,0,0,0,0,0,1,0,0000000000010,0000100000000,0,search and rescue work part time,This respondent made new friends by engaging in search and rescue work.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""1"" }"
+486,0,0,0,0,0,0,0,0,1,0,0,0,0,0000000010000,0000000000010,0,senior center,This respondent made new friends by attending a senior center.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+492,0,0,0,0,0,0,0,0,1,0,0,0,0,0000000010000,0000001000000,0,Probably seek out people in the ham radio community,This respondent made new friends by seeking out people in the ham radio community.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+495,0,0,0,0,0,0,0,0,0,0,0,1,0,0000000000010,0000001000000,0,Find a band to play in,This respondent made new friends by joining a band.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+498,1,0,0,0,1,0,0,0,0,0,0,0,0,1000100000000,1000000000000,0,"church, professional society, corporate people you meet day to day","This respondent made new friends by joining church, professional society, and meeting corporate people.","{ ""1"": ""1"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+500,0,1,1,0,0,1,0,0,0,0,0,0,0,0110010000000,0000010000000,0,"initially find a dog park because that is where i would go to excercise, volunteering, coffee shop","This respondent made new friends by finding a dog park, volunteering, and going to a coffee shop.","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""1"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+502,0,0,0,0,1,0,0,0,0,1,0,0,0,0000100001000,0000100100000,0,I would probably try to meet people through whichever job I got or through mutual friends in the area,"This respondent made new friends by:
+- Meeting people through their job
+- Meeting people through mutual friends","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+503,1,0,1,0,0,0,1,0,0,0,0,0,0,1010001000000,1000001000000,0,"join synagogue, find a book group, volunteer","This respondent made new friends by joining a synagogue, finding a book group, and volunteering.","{ ""1"": ""1"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+505,0,0,0,0,0,0,0,0,1,0,0,0,0,0000000010000,0000000000010,0,heavily into recovery it would start there,This respondent made new friends by heavily engaging in recovery.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""1"" }"
+506,0,0,0,0,0,1,0,0,0,0,0,1,0,0000010000010,0010010001000,0,"go to fitness club, looking up old acquaintances, happy hour organized by fiance","This respondent made new friends by going to fitness club, looking up old acquaintances, and attending happy hour organized by fiance.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+507,0,0,1,0,0,0,1,0,1,0,0,0,0,0010001010000,0010001000000,0,"hobbies, groups, volunteer","This respondent made new friends by engaging in hobbies, joining groups, and volunteering.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+508,0,0,0,0,0,0,1,0,0,0,0,1,0,0000001000010,0000101000000,0,Through academic and arts,"This respondent made new friends by: 
+- Engaging in academic activities
+- Participating in arts-related activities","{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""0"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""1"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+510,0,0,0,0,1,0,0,0,0,0,0,1,0,0000100000010,0000100001000,0,"Any relatives near town and get together, if going to school make friends, with classmates and work make friends with people around my age","This respondent made new friends by: 
+- Connecting with relatives
+- Making friends at school
+- Making friends at work","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+511,0,0,0,1,0,0,0,0,0,1,0,0,0,0001000001000,0001000000000,0,posting online or asking my extensive social network for names.,This respondent made new friends by posting online and asking their social network.,"{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""1"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""1"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+512,0,0,1,1,0,0,0,0,1,0,0,0,0,0011000010000,0010001000000,0,"Join groups, take classes, volunteer places hopefully in the neighborhood i moved into","This respondent made new friends by joining groups, taking classes, and volunteering.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+513,0,0,0,0,1,0,0,0,0,1,0,1,0,0000100001010,0000100001000,0,"Meet through work, reach out from own network of friends and family, previous clients","This respondent made new friends by meeting through work, reaching out from their own network of friends and family, and connecting with previous clients.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""1"", ""9"": ""1"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+514,0,0,0,0,0,1,0,0,1,0,0,1,0,0000010010010,0000111000000,0,"Contact my school friends, go to music festivals, hiking","This respondent made new friends by contacting school friends, going to music festivals, and hiking.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+515,1,0,1,0,0,0,0,0,1,1,0,0,0,1010000011000,1010100001000,0,"Church, alumni organizations, find volunteer activities, friends of friends","This respondent made new friends by: 
+- Church
+- Alumni organizations
+- Volunteer activities
+- Friends of friends","{
+""1"": ""1"",
+""2"": ""0"",
+""3"": ""1"",
+""4"": ""0"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""1"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+516,0,1,0,0,0,0,0,0,0,0,0,1,0,0100000000010,1100010000000,0,"Go to a YMCA and hopefully meet some friends, spiritual activity not a church, coffee place","This respondent made new friends by going to a YMCA, engaging in spiritual activities, and visiting coffee places.","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+518,0,0,1,0,0,1,0,0,0,0,0,0,0,0010010000000,0010011000000,0,"volunteering, library, sports","This respondent made new friends by volunteering, going to the library, and participating in sports.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+775,0,0,0,0,1,0,1,0,1,0,0,0,0,0000101010000,0000101000000,0,"Find groups of people doing things I'm interested in doing via work, social groups, etc.",This respondent made new friends by finding groups of people with similar interests.,"{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""0"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+776,0,0,1,0,1,1,0,0,0,0,0,0,0,0010110000000,0000111000000,0,"Depending on the job, I'd hope to meet new friends with co-workers. I'd probably join a casual sports club of some kind, maybe a climbing gym to try and find people with similar interests. I'd also volunteer in an effort with other people (w","This respondent made new friends by:
+- Meeting co-workers
+- Joining a casual sports club
+- Joining a climbing gym
+- Volunteering in an effort with other people","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+778,0,0,0,0,1,0,0,0,1,0,0,0,0,0000100010000,0000101001000,0,"join a group of some sort, make friends with co workers, connect with friends of friends.","This respondent made new friends by joining a group, making friends with co-workers, and connecting with friends of friends.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""1"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+779,0,0,1,1,0,0,0,0,1,1,0,0,0,0011000011000,0011001001000,0,"Online, volunteering, going to music venues, asking friends i may know in that area.","This respondent made new friends by: 
+- Going online
+- Volunteering
+- Going to music venues
+- Asking friends in the area","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+780,0,0,0,0,1,0,0,0,0,0,0,1,0,0000100000010,0000100000000,0,I would go out with coworkers or classmates I meet if I am attending school.,This respondent made new friends by going out with coworkers or classmates.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+781,0,0,0,0,1,1,0,0,0,0,0,1,0,0000110000010,0000111000000,0,I would go out with coworkers. I would probably take a class of some kind or join an athletic team.,"This respondent made new friends by going out with coworkers, taking a class, and joining an athletic team.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""1"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+782,0,1,1,0,1,1,0,0,0,0,0,0,0,0110110000000,0100110000000,0,"i would join a gym, coffee shop, volunteering, go out with coworkers","This respondent made new friends by joining a gym, coffee shop, volunteering, and going out with coworkers.","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""1"", ""4"": ""0"", ""5"": ""1"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+783,0,1,1,1,1,0,0,0,1,0,0,0,0,0111100010000,0111000000000,0,"Volunteering, befriending coworkers, online dating, joining clubs/groups of things I'm interested in, joining Meetup.com, going to bars and parties, looking for people who attended my university or are part of other networks that I'm part of","This respondent made new friends by volunteering, befriending coworkers, online dating, joining clubs/groups, using Meetup.com, going to bars and parties, and connecting with people from their university or other networks.","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""1"", ""4"": ""1"", ""5"": ""1"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""1"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+784,0,0,0,0,0,0,0,0,0,0,0,0,1,0000000000001,0000000000100,0,Still figuring that one out (as here is a town far away),"This respondent made new friends by:
+- Still figuring that one out","{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""0"",
+""5"": ""0"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""1""
+}"
+785,1,0,1,0,1,0,0,0,1,0,0,0,0,1010100010000,1110101000000,0,"Going to local events, volunteering, join a church congregation, get to know friends at work, get involved with community events.","This respondent made new friends by attending local events, volunteering, joining a church congregation, getting to know friends at work, and getting involved with community events.","{ ""1"": ""1"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+790,0,1,0,0,0,0,0,0,1,0,0,0,0,0100000010000,1100000000000,0,attend origination. going to bars,This respondent made new friends by attending origination and going to bars.,"{ ""1"": ""0"", ""2"": ""1"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+791,0,0,0,0,0,1,0,0,0,0,0,0,0,0000010000000,0000011000000,0,"Join an ultimate frisbee team, climb at a rock gym, live with good people","This respondent made new friends by joining an ultimate frisbee team, climbing at a rock gym, and living with good people.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+792,0,1,0,1,0,0,0,0,0,0,0,0,0,0101000000000,0101100000000,0,"go to lectures, local restaurants, meetups.","This respondent made new friends by attending lectures, going to local restaurants, and participating in meetups.","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+793,0,1,0,1,1,0,0,0,0,1,0,0,0,0101100001000,0001101000000,0,"Look for mutual connections with current friends via social media, go out with co-workers, happy hour at local bars, join a social support group at a non-profit, go on an app like Grindr.","This respondent made new friends by:
+- Looking for mutual connections via social media
+- Going out with co-workers
+- Attending happy hour at local bars
+- Joining a social support group at a non-profit","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""0"", ""4"": ""1"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+794,0,0,0,1,1,0,0,0,1,0,0,0,0,0001100010000,0001101000000,0,"Going out with coworkers, looking for facebook events related to my interests, joining a club or group","This respondent made new friends by going out with coworkers, looking for Facebook events related to their interests, and joining a club or group.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+795,0,0,0,1,1,0,1,0,0,0,0,0,0,0001101000000,0001100000000,0,"look up hobby groups online and join, going out with coworkers",This respondent made new friends by joining hobby groups and going out with coworkers.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+800,0,1,0,0,1,1,0,0,0,0,0,1,0,0100110000010,0001110000000,0,"Going out with coworkers, going to local bars, posting online, going to school, joining a gym","This respondent made new friends by going out with coworkers, posting online, going to school, and joining a gym.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""1"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+801,0,1,0,0,1,0,0,0,0,0,0,1,0,0100100000010,0100100000000,0,"Going to local bars, going out with coworkers, taking a class","This respondent made new friends by going to local bars, going out with coworkers, and taking a class.","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+802,0,0,0,0,1,0,0,0,0,1,0,0,0,0000100001000,0000101000000,0,"Go out with coworkers, try to meet friends of friends, perhaps take a class or start volunteering","This respondent made new friends by going out with coworkers, meeting friends of friends, taking a class, and starting volunteering.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+803,0,0,0,0,0,0,0,0,1,0,0,0,0,0000000010000,0100000000000,0,talking to people and going to town events,This respondent made new friends by talking and attending events.,"{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""1"",
+""5"": ""1"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""1"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+959,0,0,1,0,1,0,1,0,0,0,0,0,0,0010101000000,0010110000000,0,"Join an intramural team, go out with coworkers, and volunteer","This respondent made new friends by joining an intramural team, going out with coworkers, and volunteering.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""1"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+964,0,0,1,0,0,0,0,0,1,0,0,0,0,0010000010000,0010001000000,0,"Volunteer, get involved with clubs, attend community events","This respondent made new friends by volunteering, getting involved with clubs, and attending community events.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""1"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+966,0,0,0,0,1,0,1,0,0,1,0,0,0,0000101001000,0000100001000,0,"Going out with coworkers, meeting friends of friends, starting an improv group, joining a choir, taking a dance class.","This respondent made new friends by going out with coworkers, meeting friends of friends, starting an improv group, joining a choir, and taking a dance class.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+967,0,0,0,0,1,0,0,1,0,0,0,0,0,0000100100000,0000100000000,0,start with work friends and neighbors,This respondent made new friends by starting with work friends and neighbors.,"{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""0"",
+""5"": ""1"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""1"",
+""9"": ""0"",
+""10"": ""1"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+969,0,0,0,0,1,1,0,0,0,0,0,0,0,0000110000000,0100110000000,0,I would join sports teams and go to happy hours with colleagues.,This respondent made new friends by joining sports teams and going to happy hours with colleagues.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+971,0,0,0,0,1,0,0,0,1,0,0,0,0,0000100010000,0000101000000,0,"Meet through work, spend time with those people outside of work, attend events","This respondent made new friends by meeting through work, spending time outside of work, and attending events.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+975,0,0,0,1,0,0,0,0,0,0,0,0,0,0001000000000,0001000100000,0,"I would do a few things, some of which I already do to initiate meeting others in my community. 1) I use a ""dating app"" to access people in the community and have met many smart and interesting people that I have share hours of conversation an",This respondent made new friends by using a dating app.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+976,0,0,0,0,1,0,0,1,0,0,0,1,0,0000100100010,0000100100000,0,"If I were going to school I would most likely meet friends there first. Otherwise, I would try to make friends with neighbors or at my job.","This respondent made new friends by going to school, making friends with neighbors, and making friends at their job.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""1"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+977,0,0,1,1,1,0,1,0,0,0,0,0,0,0011101000000,0011001000000,0,"I'd probably volunteer, start going to some kind of class or book club if I could find one, try to meet people at work, & maybe join the local queer exchange facebook group & attend some events posted there.","This respondent made new friends by volunteering, attending classes or book clubs, meeting people at work, and joining a local queer exchange Facebook group and attending events.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""1"", ""5"": ""1"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+979,0,1,1,0,0,0,0,0,1,0,0,0,0,0110000010000,0110001000000,0,"Check out local night life (bars, live music, other events). Go to the library and wander. Volunteer.","This respondent made new friends by:
+- Checking out local night life
+- Going to the library and wandering
+- Volunteering","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+981,0,0,0,0,0,1,0,0,0,0,0,1,0,0000010000010,0000010000000,0,"Join volleyball leagues, join hiking groups, say yes to anything and everything you're invited to","This respondent made new friends by joining volleyball leagues, joining hiking groups, and saying yes to anything and everything they were invited to.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+983,0,1,1,0,1,0,0,0,1,0,0,0,0,0110100010000,0110101000000,0,"Join a group that does something I'm interested in, go out with coworkers, go out to local bars, volunteer, hangout at local spots like coffee shops and bookstores...","This respondent made new friends by joining a group, going out with coworkers, volunteering, and hanging out at local spots.","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""1"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+984,0,1,1,0,0,0,0,0,1,0,0,0,0,0110000010000,0110001000000,0,"Local bars, music events, volunteering","This respondent made new friends by going to local bars, music events, and volunteering.","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+985,0,1,0,0,1,0,0,0,1,0,0,0,0,0100100010000,0000111000000,0,"Taking classes, going to the dog park, going out with coworkers","This respondent made new friends by taking classes, going to the dog park, and going out with coworkers.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+986,0,0,1,0,1,0,0,0,0,0,0,0,0,0010100000000,0011100000000,0,"volunteering, going out with coworkers, networking","This respondent made new friends by volunteering, going out with coworkers, and networking.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+988,0,0,1,1,0,0,0,0,0,0,0,0,0,0011000000000,0001000000000,0,Joining MeetUp groups online or volunteering,This respondent made new friends by joining MeetUp groups and volunteering.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""1"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+990,0,0,1,0,1,0,0,0,1,0,0,0,0,0010100010000,0110101000000,0,"Going out with coworkers, joining clubs or interest groups, volunteering, going to bars","This respondent made new friends by going out with coworkers, joining clubs or interest groups, volunteering, and going to bars.","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""1"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+991,0,0,0,0,0,0,0,0,0,0,0,0,1,0000000000001,0000000100000,0,n/a. I moved within San Francisco.,This respondent made new friends by moving within San Francisco.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+993,0,0,0,0,0,0,0,0,0,0,1,0,0,0000000000100,0000000001100,0,I don't do the friend thing. I would let Brian or Suzie make friends and then befriend the new people.,This respondent made new friends by relying on Brian or Suzie to make friends and then befriending the new people.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+994,1,0,0,0,1,0,0,0,0,1,0,0,0,1000100001000,1000100000000,0,"I have moved to towns far away and made friends with coworkers, gone to different churches, and integrated into existing friends' friendship circles.","This respondent made new friends by: 
+- Making friends with coworkers
+- Going to different churches
+- Integrating into existing friends' friendship circles","{ ""1"": ""1"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+995,0,0,0,0,1,0,0,0,1,1,0,0,0,0000100011000,0000001001000,0,"Meet friends of friends through my existing network, go to Burning Man events, make friends with coworkers","This respondent made new friends by:
+- Meeting friends of friends
+- Attending Burning Man events
+- Making friends with coworkers","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+996,0,1,0,0,1,0,0,0,1,0,0,0,0,0100100010000,0100100000000,0,"Going out with coworkers, pubs and meeting people at public events (art shows, local stores, etc)","This respondent made new friends by going out with coworkers, pubs, and attending public events.","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""0"", ""4"": ""1"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+998,0,0,0,0,1,0,0,0,0,0,0,0,0,0000100000000,0010100001000,0,i would go out with coworkers and arrange some parties and invite friends and ask them to come with their friends,"This respondent made new friends by going out with coworkers, arranging parties, inviting friends, and asking them to come with their friends.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+1000,1,0,0,1,0,0,1,0,0,1,0,1,0,1001001001010,1000101000000,0,"Go to graduate school, take art classes, go to Meet Ups, join a synagogue, contact any friends I might already have living there and meet their friends, go out with coworkers.","This respondent made new friends by:
+- Going to graduate school
+- Taking art classes
+- Going to Meet Ups
+- Joining a synagogue
+- Contacting any friends they might already have living there and meeting their friends
+- Going out with coworkers","{ ""1"": ""1"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+1001,0,0,0,1,0,0,1,0,0,0,0,0,0,0001001000000,0001000000000,0,Join a hackerspace. Go to game shops. Online dating.,"This respondent made new friends by joining a hackerspace, going to game shops, and trying online dating.","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""0"", ""4"": ""1"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+1002,0,0,1,0,1,1,0,0,1,0,0,0,0,0010110010000,0000100000000,0,"Contact other alumni of my undergrad and grad program in the area, go out with coworkers. Maybe volunteer or join some sort of sports team or other club?","This respondent made new friends by contacting alumni, going out with coworkers, volunteering, and joining sports teams or clubs.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""1"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+1003,0,0,1,1,1,0,0,0,0,0,0,0,0,0011100000000,0010000000000,0,"I would go to meet ups, go out with coworkers, volunteer","This respondent made new friends by attending meetups, socializing with coworkers, and volunteering.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""1"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+1004,0,0,0,1,1,0,0,0,0,0,0,0,0,0001100000000,0000110000000,0,"Going out with coworkers, finding dog meet ups online",This respondent made new friends by going out with coworkers and finding dog meetups online.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+1005,0,0,0,1,0,1,0,0,0,0,0,1,0,0001010000010,0000010001000,0,"Probably join a sports league (lacrosse, casual soccer), befriend co-workers, check in with ANY personal/familial contact I had in/near the new city","This respondent made new friends by joining sports leagues, befriending co-workers, and reaching out to personal/familial contacts.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""1"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+1006,0,0,0,0,1,0,0,0,0,1,0,0,0,0000100001000,0000000001000,0,Hang out with friends and acquaintances who are in proximity.,This respondent made new friends by hanging out with friends and acquaintances.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+1007,0,0,0,0,0,0,0,0,0,0,0,0,0,0000000000000,0001110000000,0,"Going out with coworkers, joining a gym, going to Meetups","This respondent made new friends by going out with coworkers, joining a gym, and going to Meetups.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+1008,0,0,0,0,1,0,0,0,1,0,0,0,0,0000100010000,0000101000000,0,I would make friends at work and social gatherings where people share my interests.,This respondent made new friends by making friends at work and social gatherings.,"{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""0"",
+""5"": ""1"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+1009,0,0,0,0,1,1,0,0,0,0,0,0,0,0000110000000,0000011000000,0,"Train at a fitness center, join a performance group or troupe, go to performing arts events, go out with coworkers, take dance classes and go to social dance events","This respondent made new friends by: 
+- Training at a fitness center
+- Joining a performance group or troupe
+- Attending performing arts events
+- Going out with coworkers
+- Taking dance classes
+- Going to social dance events","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+1010,0,1,1,0,1,0,0,0,0,0,0,1,0,0110100000010,0010000000000,0,"I would volunteer, go out with coworkers, take classes at the local community college, and go to bars.","This respondent made new friends by volunteering, going out with coworkers, taking classes, and going to bars.","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""1"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+1011,0,1,0,1,0,0,0,0,1,0,0,0,0,0101000010000,0101001000000,0,"bars, events, online","This respondent made new friends by going to bars, attending events, and connecting online.","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""0"", ""4"": ""1"", ""5"": ""0"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+1012,0,0,0,1,1,0,1,0,0,0,0,0,0,0001101000000,0001100000000,0,"going out with coworkers, looking at online groups like Meetup.com to check out new book clubs or events groups.",This respondent made new friends by going out with coworkers and looking at online groups.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+1014,0,0,0,0,1,0,0,0,0,0,0,1,0,0000100000010,0000100000000,0,I would find new friends through co-workers or classmates,This respondent made new friends by finding new friends through co-workers or classmates.,"{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""0"",
+""5"": ""1"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""0"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+1015,0,0,0,1,1,1,0,0,1,0,0,0,0,0001110010000,0001110000000,0,"going out with coworkers, rec sports leagues, alumni groups, online dating","This respondent made new friends by going out with coworkers, joining rec sports leagues, participating in alumni groups, and trying online dating.","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""0"", ""4"": ""1"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+1017,0,1,0,0,1,1,0,0,0,0,0,0,0,0100110000000,0000110000000,0,"Playing sports, going out with coworkers, going to local bars","This respondent made new friends by playing sports, going out with coworkers, and going to local bars.","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""1"", ""7"": ""0"", ""8"": ""0"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+1019,0,0,0,0,1,0,0,0,0,1,0,0,0,0000100001000,0000100000000,0,"Go out with coworkers, try to find old friends in the area and use those contacts to meet new people.",This respondent made new friends by going out with coworkers and using old contacts.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+1020,0,0,0,0,1,0,0,0,1,0,0,0,0,0000100010000,0000101000000,0,"I would go to social events, but mostly hang out with my coworkers or roommates.","This respondent made new friends by attending social events, hanging out with coworkers, and hanging out with roommates.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+1021,0,0,0,0,1,0,0,0,1,0,0,0,0,0000100010000,0000101000000,0,"Join community groups, look for friends in coworkers",This respondent made new friends by joining community groups and looking for friends in coworkers.,"{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""0"", ""5"": ""1"", ""6"": ""0"", ""7"": ""0"", ""8"": ""0"", ""9"": ""0"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+1023,0,0,0,0,1,0,0,0,0,1,0,0,0,0000100001000,0000000000000,0,I wouldn't move somewhere unless I already knew someone there and then I would probably rely on that person to introduce me to friends. I would also get to know co-workers.,This respondent made new friends by relying on acquaintances and getting to know co-workers.,"{
+""1"": ""0"",
+""2"": ""0"",
+""3"": ""0"",
+""4"": ""0"",
+""5"": ""1"",
+""6"": ""0"",
+""7"": ""0"",
+""8"": ""0"",
+""9"": ""0"",
+""10"": ""1"",
+""11"": ""0"",
+""12"": ""0"",
+""13"": ""0""
+}"
+1025,0,1,1,0,1,0,0,1,1,0,0,0,0,0110100110000,0110010000000,0,"joining community groups like volunteering, sports; going to bars and events in the neighborhood, going out with coworkers","This respondent made new friends by joining community groups, volunteering, participating in sports, going to bars and events, and going out with coworkers.","{ ""1"": ""0"", ""2"": ""1"", ""3"": ""1"", ""4"": ""0"", ""5"": ""1"", ""6"": ""1"", ""7"": ""0"", ""8"": ""1"", ""9"": ""1"", ""10"": ""0"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
+1026,0,0,1,0,1,0,0,0,0,0,0,1,0,0010100000010,0010101000000,0,Talking with coworkers; joining a volunteer organization; taking a class,"This respondent made new friends by talking, joining, and taking a class.","{ ""1"": ""0"", ""2"": ""0"", ""3"": ""0"", ""4"": ""1"", ""5"": ""0"", ""6"": ""0"", ""7"": ""1"", ""8"": ""0"", ""9"": ""0"", ""10"": ""1"", ""11"": ""0"", ""12"": ""0"", ""13"": ""0"" }"
